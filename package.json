@@ -1,0 +1,1 @@
+{"description":"One server, two APIs, ten free-tier providers: the best free AI model aggregator.","name":"free-model-aggregator-01","private":true,"scripts":{"list":"node main.ts --list","start":"node main.ts"},"type":"module","version":"1.0.0"}
